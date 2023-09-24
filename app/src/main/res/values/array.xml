@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>Is Tomato a Vegetable or a Fruit?</item>
+        <item>Why do Clocks Run Clockwise?</item>
+        <item>Who Invented The Pen?</item>
+        <item>Abdul Kareem</item>
+        <item>Venice is Sinking </item>
+        <item>Martin Luther King, Jr. </item>
+        <item>Charlie Chaplin </item>
+        <item>How do Satellites Stay Up? </item>
+        <item>Programmed to learn </item>
+        <item>How does a Submarine Work? </item>
+        <item>Where Did Numerals Originate? </item>
+        <item>the Sun Red during Sunrise and Sunset?</item>
+        <item>the Sun melt Snow? </item>
+        <item>How are Stars Named?</item>
+        <item>How Far Away are the Stars? </item>
+        <item>An Organism that is visible from Space</item>
+        <item>Why Do We Have Wrinkly Fingers After Swimming? </item>
+        <item>our stomach get digested? </item>
+        <item>What Is The Origin Of Silk Fabric? </item>
+    </string-array>
+    <string-array name="authors">
+        <item>Chitra Padmanabhan</item>
+        <item>Rama Kumaraswamy Thoopal</item>
+        <item>Gargi Pant</item>
+        <item>Brishti Bandyopadhyay</item>
+        <item>Rama Kumaraswamy Thoopal</item>
+        <item>Team Pitara</item>
+        <item>Team Pitara</item>
+        <item>Jim Nicholls</item>
+        <item>Chitra Padmanabhan</item>
+        <item>Ajay Dasgupta</item>
+        <item>Bhaswati Ghosh</item>
+        <item>Rama Kumaraswamy Thoopal</item>
+        <item>Woodpecker</item>
+        <item>Saakshi Khanna</item>
+        <item>Ajay Dasgupta</item>
+        <item>Gargi Pant</item>
+        <item>Ajay Dasgupta</item>
+        <item>Gargi Pant</item>
+        <item>Gargi Pant</item>
+    </string-array>
+    <string-array name="image">
+        <item>@drawable/image1</item>
+        <item>@drawable/image2</item>
+        <item>@drawable/image3</item>
+        <item>@drawable/image4</item>
+    </string-array>
+</resources>
